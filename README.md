@@ -3,11 +3,6 @@
 <h1 align="center">Hello! 👋, I'm Hridoy Chandra Sarker!</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy75-hub&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy75-hub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy75-hub" alt="hridoy75-hub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@hridoy75s" target="blank"><img src="https://img.shields.io/twitter/follow/@hridoy75s?logo=twitter&style=for-the-badge" alt="@hridoy75s" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks,Courses and Programing!**
 
@@ -37,6 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridoy75-hub&show_icons=true&locale=en" alt="hridoy75-hub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy75-hub&" alt="hridoy75-hub" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy75-hub&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy75-hub" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy75-hub" alt="hridoy75-hub" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@hridoy75s" target="blank"><img src="https://img.shields.io/twitter/follow/@hridoy75s?logo=twitter&style=for-the-badge" alt="@hridoy75s" /></a> </p>
 
 
 
