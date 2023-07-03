@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=68F7C6&width=435&lines=This+is+Hridoy+!+Learning+Enthusiast!;Currently+studying+at+PSTU!)](https://git.io/typing-svg)
 <!--
 **Hridoy75-hub/Hridoy75-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
