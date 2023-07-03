@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Hridoy Chandra Sarker](https://www.linkedin.com/in/hridoy-chandra-sarker-5381b7219/)
 
-- ⚡ Fun fact **wasting!**
+- ⚡ Fun fact **wasting time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
