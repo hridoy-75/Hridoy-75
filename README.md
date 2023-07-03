@@ -3,7 +3,6 @@
 <h1 align="center">Hello! 👋, I'm Hridoy Chandra Sarker!</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh.</h3>
 <br>
-<br>
 
 - 🌱 I’m currently learning **Frameworks,Courses and Programing!**
   
