@@ -6,6 +6,8 @@
 <br>
 
 - 🌱 I’m currently learning **Frameworks,Courses and Programing!**
+  
+- 👯 I’m looking to collaborate on .....
 
 - 💬 Ask me about  **MEARN,C++....,& Hackathon!**
 
@@ -19,10 +21,9 @@
 <p align="left">
 <a href="https://twitter.com/hridoy75s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hridoy75s" height="30" width="40" /></a>
 <a href="https://fb.com/hridoychandro.sarkar.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoychandro.sarkar.75" height="30" width="40" /></a>
-<a href="https://instagram.com/hridoy__73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hridoy__73" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hcsarker2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hcsarker2002" height="30" width="40" /></a>
+<a href="https://instagram.com/hridoy__73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoy__73" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hcsarker2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hcsarker2002" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hridoy__73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hridoy__73" height="30" width="40" /></a>
-<a href="https://discord.gg/yeash_70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yeash_70" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +39,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy75-hub" alt="hridoy75-hub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@hridoy75s" target="blank"><img src="https://img.shields.io/twitter/follow/@hridoy75s?logo=twitter&style=for-the-badge" alt="@hridoy75s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hridoy75s" target="blank"><img src="https://img.shields.io/twitter/follow/@hridoy75s?logo=twitter&style=for-the-badge" alt="@hridoy75s" /></a> </p>
 
 
 
