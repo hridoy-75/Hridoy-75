@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on .....
 
-- 💬 Ask me about  **MEARN,C++....,& Hackathon!**
+- 💬 Ask me about  **MEARN, Programming...,& Hackathon!**
 
 - 📫 How to reach me  **hcsarker2002@gmail.com**
 
