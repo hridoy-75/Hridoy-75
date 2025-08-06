@@ -88,7 +88,7 @@ I'm a passionate technologist with expertise spanning full-stack development, da
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25%20Player-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/yourusername)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems%20Solved-FFA116?style=flat&logo=leetcode)](https://leetcode.com/yourusername/)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/yourusername) 
-
+-->
 
 ## 📫 Let's Connect
 
